@@ -1,0 +1,2 @@
+// a script that inserts a collection to a db
+db.school.insert({name: "Holberton school"});
